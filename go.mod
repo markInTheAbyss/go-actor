@@ -1,4 +1,4 @@
-module github.com/vladopajic/go-actor
+module github.com/markInTheAbyss/go-actor
 
 go 1.20
 
